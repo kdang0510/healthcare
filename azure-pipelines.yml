@@ -1,0 +1,9 @@
+trigger:
+- master
+
+steps:
+- task: katalonTask@1
+  displayName: 'Execute Katalon Studio project'
+  inputs:
+    version: '8.2.5'
+    executeArgs: '-browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/Healthcare" -apiKey=af3b6267-6288-419f-a0f4-3ec3b18e55e8'
