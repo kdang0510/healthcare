@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>Healthcare</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,11 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f57bb8da-c569-41e0-9c9d-2607707161e9</testSuiteGuid>
+   <testSuiteGuid>b159bb68-5dde-4fe8-b3b7-c957434c2d50</testSuiteGuid>
    <testCaseLink>
-      <guid>c76282bf-998d-4af6-9903-124a11d16dbf</guid>
+      <guid>2128dfe0-6337-4bb7-8d64-d24df11c5964</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/01_Test (rename)/01_1_Test/01_1_1_Test(rename)/TC1</testCaseId>
+      <testCaseId>Test Cases/TC1</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
