@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>New Test Suite</name>
+   <name>Google2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,11 +10,17 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>f57bb8da-c569-41e0-9c9d-2607707161e9</testSuiteGuid>
+   <testSuiteGuid>22ecc651-dacc-4b8a-a861-cb6646437c82</testSuiteGuid>
    <testCaseLink>
-      <guid>e6bd7c69-d162-4f52-96c8-a287423ee704</guid>
+      <guid>db8c00f0-8c78-4bc7-befa-6d96a15cbf3d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC2</testCaseId>
+      <testCaseId>Test Cases/gg2</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>55793a94-a270-4875-9d5c-697abe55a060</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/gg2 - Copy</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
